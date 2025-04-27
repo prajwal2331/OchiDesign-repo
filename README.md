@@ -51,5 +51,5 @@ In this project, you can run the following scripts:
 
 ## Credits
 
-Vite Template React is built and maintained by [Prem-Mule]().
+Vite Template React is built and maintained by [Prajwal]().
 
