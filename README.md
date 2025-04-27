@@ -12,7 +12,7 @@
 To get a local copy of the code, clone it using git:
 
 ```
-git clone https://github.com/Prem-Mule/OchiDesign-Showcase-app.git
+git clone https://github.com/prajwal2331/OchiDesign-Showcase-app.git
 cd OchiDesign-Showcase-app
 ```
 
